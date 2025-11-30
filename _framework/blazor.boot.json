@@ -1,10 +1,10 @@
 {
   "mainAssemblyName": "DailyHub",
   "resources": {
-    "hash": "sha256-S7/FIAt5Tb0qufxX+pDPegODRArZVnUfZoxszkv3HuQ=",
+    "hash": "sha256-NJPPIHoZk9o3lPEtWVcLevqUMQ3eFEOQsyNjzqh1PFY=",
     "fingerprinting": {
       "DailyHub.Shared.691l2yvhpq.wasm": "DailyHub.Shared.wasm",
-      "DailyHub.rk8a0ht3ko.wasm": "DailyHub.wasm",
+      "DailyHub.tqgpcafoqo.wasm": "DailyHub.wasm",
       "Microsoft.AspNetCore.Components.Forms.ldwpbvn8hd.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
       "Microsoft.AspNetCore.Components.o4k75ycxkl.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.4eyhk7bydl.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -116,7 +116,7 @@
     },
     "assembly": {
       "DailyHub.Shared.691l2yvhpq.wasm": "sha256-ZsytwI1A8K/w5LQTzykSG+VY82afUgKiLXVTvd2pNdE=",
-      "DailyHub.rk8a0ht3ko.wasm": "sha256-670vwH9mljU/RE4jgEhc3Lb8oZFpnYm3bi+x9fZvGx0=",
+      "DailyHub.tqgpcafoqo.wasm": "sha256-+/q9GhAnTyirS7Fk4Dcheqi/mcxdDPKS96ul3kJgeK8=",
       "Microsoft.AspNetCore.Components.Forms.ldwpbvn8hd.wasm": "sha256-KaeHomuPbkMB5j4fO81NDLowNMo55yP/YatedUTmB9g=",
       "Microsoft.AspNetCore.Components.o4k75ycxkl.wasm": "sha256-qE6yNAo2Q/B3S6fj3RqvKXQYj8E0h1ygws3wvP8fHdc=",
       "Microsoft.AspNetCore.Components.Web.4eyhk7bydl.wasm": "sha256-XAjjcvL+DpVu6DVig17taUo8QcawVM9JgdIz/PYqef0=",
